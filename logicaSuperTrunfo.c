@@ -47,7 +47,7 @@ int main() {
     printf("Código da carta (ex: A01): ");
     scanf("%s", codigo_1);
 
-     printf("Nome da cidade: ");
+    printf("Nome da cidade: ");
 
     //limpar buffer de entrada
     getchar(); // isso consome o '\n' que sobra apos o scanf
